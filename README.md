@@ -1,6 +1,10 @@
 # "Operating Systems: Three Easy Pieces"の日本語翻訳
 本家サイト：http://pages.cs.wisc.edu/~remzi/OSTEP/   
 ※Dialogue、Summary、Homeworkの翻訳はしていません。
+
+はじめに
+Operating Systems Three Easy Piecesと言われているものを日本語に翻訳しました。この本（サイト）では現代のOSに至るまでの歴史を一つずつ辿っていき、どうして今のような実装になっているかを教えてくれるような本になっています。OSがよくわかっていなくて知りたい方、現代のOSを改造したい方、応用分野でOSのモデル化をしたい方にお勧めです。また、この本の参考文献のほとんどが論文からの引用だったりするので詳しい実装を知りたい方などにもおすすめです。
+
 # 第1部 Virtualization
 ## 1. [A Dialogue on the Book](./01/01.md)
 ## 2. [Introduction to Operating Systems](./02/02.md)
